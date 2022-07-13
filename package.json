@@ -1,0 +1,24 @@
+{
+  "name": "desafio-typescript-dio",
+  "version": "1.0.0",
+  "description": "Desafio de Projeto: Introdução Prática ao TypeScript - DIO\r Professor: João Santos\r Repositório original: https://github.com/lira1705/mentoria-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankleyoliveira/desafio-typescript-dio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankleyoliveira/desafio-typescript-dio/issues"
+  },
+  "homepage": "https://github.com/frankleyoliveira/desafio-typescript-dio#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
